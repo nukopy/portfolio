@@ -7,6 +7,7 @@ This portfolio is hosted on Vercel.
 ## Tech Stack
 
 - Next.js
+- React.js
 
 ## Develop
 
